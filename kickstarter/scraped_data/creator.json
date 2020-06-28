@@ -1,0 +1,53 @@
+{
+	"id": 1719265164,
+	"name": "Jochen K. Michels",
+	"slug": "no-meltdown",
+	"is_registered": null,
+	"chosen_currency": null,
+	"is_superbacker": null,
+	"avatar": {
+		"thumb": "https://ksr-ugc.imgix.net/assets/012/484/588/2e8e158e8ea8a36bf2a01fced6e443d9_original.jpg?ixlib=rb-2.1.0&w=40&h=40&fit=crop&v=1464007857&auto=format&frame=1&q=92&s=5d3d6cec1571a142e8037b00d05f7d1c",
+		"small": "https://ksr-ugc.imgix.net/assets/012/484/588/2e8e158e8ea8a36bf2a01fced6e443d9_original.jpg?ixlib=rb-2.1.0&w=160&h=160&fit=crop&v=1464007857&auto=format&frame=1&q=92&s=2cbaa57bfe256d741c2487be89aed904",
+		"medium": "https://ksr-ugc.imgix.net/assets/012/484/588/2e8e158e8ea8a36bf2a01fced6e443d9_original.jpg?ixlib=rb-2.1.0&w=160&h=160&fit=crop&v=1464007857&auto=format&frame=1&q=92&s=2cbaa57bfe256d741c2487be89aed904",
+		"large": "https://ksr-ugc.imgix.net/assets/012/484/588/2e8e158e8ea8a36bf2a01fced6e443d9_original.jpg?ixlib=rb-2.1.0&w=220&h=220&fit=crop&v=1464007857&auto=format&frame=1&q=92&s=35706e153a6b2ea8415abcde4d00d5d5"
+	},
+	"urls": {
+		"web": {
+			"user": "https://www.kickstarter.com/profile/no-meltdown"
+		},
+		"api": {
+			"user": "https://api.kickstarter.com/v1/users/1719265164?signature=1591393529.86f395761f15f0280be89f9783badf2e8d46e5f3",
+			"created_projects": "https://api.kickstarter.com/v1/users/1719265164/projects/created?signature=1591393529.1dd5f2ca461cfcf0257bb0b8617bdf9845b22817"
+		}
+	},
+	"backed_projects": 1,
+	"join_date": "2014-08-04T06:42:15Z",
+	"location": {
+		"id": 679011,
+		"name": "Neuss",
+		"slug": "neuss-de",
+		"short_name": "Neuss, Germany",
+		"displayable_name": "Neuss, Germany",
+		"localized_name": "Neuss",
+		"country": "DE",
+		"state": "North Rhine-Westphalia",
+		"type": "Town",
+		"is_root": false,
+		"expanded_country": "Germany",
+		"urls": {
+			"web": {
+				"discover": "https://www.kickstarter.com/discover/places/neuss-de",
+				"location": "https://www.kickstarter.com/locations/neuss-de"
+			},
+			"api": {
+				"nearby_projects": "https://api.kickstarter.com/v1/discover?signature=1591363069.cc8c4606d87260eb2bddfee523d3d9475469ed10&woe_id=679011"
+			}
+		}
+	},
+	"biography": "From 2020:\r\ndevelopment and launching smartphone app to track individual exposure to radiation. Controlling personal doses of Sievert to improve health. \r\nFrom 2015: \r\npublishing books and websites on this type of reactor\r\nfrom 2010  promoting meltdown safe nuclear energy\r\n  ( high temperature pebble bed reactor  - HTR)\r\nFrom 1973: \r\nindependent Management Consultant\r\nFrom 1960: \r\nemployee and associate with leading IT and consulting ( IBM, BAH) \r\nFrom 1953: \r\npractical work, internships  and studies at TU - Berlin, Germany\r\nFrom 1945: \r\nCollege in Bonn, Germany",
+	"backed_projects_count": 1,
+	"created_projects_count": 3,
+	"is_admin": false,
+	"updated_at": 1591259256,
+	"created_at": 1407134535
+}

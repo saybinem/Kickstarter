@@ -1,0 +1,127 @@
+{
+	'id': 532724899,
+	'photo': {
+		'key': 'assets/029/346/465/7a23995b1c9fcac8f406e24afd6cced8_original.png',
+		'full': 'https://ksr-ugc.imgix.net/assets/029/346/465/7a23995b1c9fcac8f406e24afd6cced8_original.png?ixlib=rb-2.1.0&crop=faces&w=560&h=315&fit=crop&v=1591302224&auto=format&frame=1&q=92&s=28ed67a12418ae06171aa5827a78753d',
+		'ed': 'https://ksr-ugc.imgix.net/assets/029/346/465/7a23995b1c9fcac8f406e24afd6cced8_original.png?ixlib=rb-2.1.0&crop=faces&w=352&h=198&fit=crop&v=1591302224&auto=format&frame=1&q=92&s=b9feec768b5420ff5e98428592923f91',
+		'med': 'https://ksr-ugc.imgix.net/assets/029/346/465/7a23995b1c9fcac8f406e24afd6cced8_original.png?ixlib=rb-2.1.0&crop=faces&w=272&h=153&fit=crop&v=1591302224&auto=format&frame=1&q=92&s=1b6d21fc650785a4dd39ab28689dd1af',
+		'little': 'https://ksr-ugc.imgix.net/assets/029/346/465/7a23995b1c9fcac8f406e24afd6cced8_original.png?ixlib=rb-2.1.0&crop=faces&w=208&h=117&fit=crop&v=1591302224&auto=format&frame=1&q=92&s=8246ea54de640a92bfc5a97633b101bd',
+		'small': 'https://ksr-ugc.imgix.net/assets/029/346/465/7a23995b1c9fcac8f406e24afd6cced8_original.png?ixlib=rb-2.1.0&crop=faces&w=160&h=90&fit=crop&v=1591302224&auto=format&frame=1&q=92&s=237e177a6e4bf73d903d9f27c6b4a8dd',
+		'thumb': 'https://ksr-ugc.imgix.net/assets/029/346/465/7a23995b1c9fcac8f406e24afd6cced8_original.png?ixlib=rb-2.1.0&crop=faces&w=48&h=27&fit=crop&v=1591302224&auto=format&frame=1&q=92&s=b23bde1889367cdf4dbb022bba4ef096',
+		'1024x576': 'https://ksr-ugc.imgix.net/assets/029/346/465/7a23995b1c9fcac8f406e24afd6cced8_original.png?ixlib=rb-2.1.0&crop=faces&w=1024&h=576&fit=crop&v=1591302224&auto=format&frame=1&q=92&s=59fc844712d05feb2580ffde7d9c9adc',
+		'1536x864': 'https://ksr-ugc.imgix.net/assets/029/346/465/7a23995b1c9fcac8f406e24afd6cced8_original.png?ixlib=rb-2.1.0&crop=faces&w=1552&h=873&fit=crop&v=1591302224&auto=format&frame=1&q=92&s=350c9338f9152c667e0b2beae4038f15'
+	},
+	'name': 'NeuTuch-authentic biodegradable wipes',
+	'blurb': 'Flushable wet wipes, toilet tissues, cosmetic tissues, towels for outside\nbiodegradation of plastics.\nStop Marine Litter, microplastic.',
+	'goal': 50000.0,
+	'pledged': 12.0,
+	'state': 'live',
+	'slug': 'neutuch-and-neutoi-born-for-the-toilet',
+	'disable_communication': False,
+	'country': 'DE',
+	'country_displayable_name': 'Germany',
+	'currency': 'EUR',
+	'currency_symbol': '€',
+	'currency_trailing_code': False,
+	'deadline': 1594627054,
+	'state_changed_at': 1591171055,
+	'created_at': 1590661135,
+	'launched_at': 1591171054,
+	'staff_pick': False,
+	'is_starrable': True,
+	'backers_count': 3,
+	'static_usd_rate': 1.11269608,
+	'usd_pledged': '13.35235296',
+	'converted_pledged_amount': 13,
+	'fx_rate': 1.12165844,
+	'current_currency': 'USD',
+	'usd_type': 'international',
+	'creator': {
+		'id': 2049669882,
+		'name': 'New era of science',
+		'slug': 'neutoi',
+		'is_registered': None,
+		'chosen_currency': None,
+		'is_superbacker': None,
+		'avatar': {
+			'thumb': 'https://ksr-ugc.imgix.net/assets/029/271/529/7f2a02a89376c251a6ad9704c49c3da9_original.png?ixlib=rb-2.1.0&w=40&h=40&fit=crop&v=1590767338&auto=format&frame=1&q=92&s=c77968ba35bc5f7e21226cb5de4cf4fc',
+			'small': 'https://ksr-ugc.imgix.net/assets/029/271/529/7f2a02a89376c251a6ad9704c49c3da9_original.png?ixlib=rb-2.1.0&w=160&h=160&fit=crop&v=1590767338&auto=format&frame=1&q=92&s=d7363461c26ab5d43870c1da10f8624d',
+			'medium': 'https://ksr-ugc.imgix.net/assets/029/271/529/7f2a02a89376c251a6ad9704c49c3da9_original.png?ixlib=rb-2.1.0&w=160&h=160&fit=crop&v=1590767338&auto=format&frame=1&q=92&s=d7363461c26ab5d43870c1da10f8624d'
+		},
+		'urls': {
+			'web': {
+				'user': 'https://www.kickstarter.com/profile/neutoi'
+			},
+			'api': {
+				'user': 'https://api.kickstarter.com/v1/users/2049669882?signature=1591389573.261fc5d585e6de0b2697faa4b32160e10accd605'
+			}
+		}
+	},
+	'location': {
+		'id': 676756,
+		'name': 'München',
+		'slug': 'munchen-gemeinde-hutthurm-de',
+		'short_name': 'München, Germany',
+		'displayable_name': 'München, Germany',
+		'localized_name': 'München',
+		'country': 'DE',
+		'state': 'Bavaria',
+		'type': 'Town',
+		'is_root': False,
+		'expanded_country': 'Germany',
+		'urls': {
+			'web': {
+				'discover': 'https://www.kickstarter.com/discover/places/munchen-gemeinde-hutthurm-de',
+				'location': 'https://www.kickstarter.com/locations/munchen-gemeinde-hutthurm-de'
+			},
+			'api': {
+				'nearby_projects': 'https://api.kickstarter.com/v1/discover?signature=1591348810.d5806bf6c6e009d48f9e977c13b517425c42dbc2&woe_id=676756'
+			}
+		}
+	},
+	'category': {
+		'id': 16,
+		'name': 'Technology',
+		'slug': 'technology',
+		'position': 14,
+		'color': 6526716,
+		'urls': {
+			'web': {
+				'discover': 'http://www.kickstarter.com/discover/categories/technology'
+			}
+		}
+	},
+	'profile': {
+		'id': 4003684,
+		'project_id': 4003684,
+		'state': 'inactive',
+		'state_changed_at': 1590661135,
+		'name': None,
+		'blurb': None,
+		'background_color': None,
+		'text_color': None,
+		'link_background_color': None,
+		'link_text_color': None,
+		'link_text': None,
+		'link_url': None,
+		'show_feature_image': False,
+		'background_image_opacity': 0.8,
+		'should_show_feature_image_section': True,
+		'feature_image_attributes': {
+			'image_urls': {
+				'default': 'https://ksr-ugc.imgix.net/assets/029/346/465/7a23995b1c9fcac8f406e24afd6cced8_original.png?ixlib=rb-2.1.0&crop=faces&w=1552&h=873&fit=crop&v=1591302224&auto=format&frame=1&q=92&s=350c9338f9152c667e0b2beae4038f15',
+				'baseball_card': 'https://ksr-ugc.imgix.net/assets/029/346/465/7a23995b1c9fcac8f406e24afd6cced8_original.png?ixlib=rb-2.1.0&crop=faces&w=560&h=315&fit=crop&v=1591302224&auto=format&frame=1&q=92&s=28ed67a12418ae06171aa5827a78753d'
+			}
+		}
+	},
+	'spotlight': False,
+	'urls': {
+		'web': {
+			'project': 'https://www.kickstarter.com/projects/neutoi/neutuch-and-neutoi-born-for-the-toilet',
+			'rewards': 'https://www.kickstarter.com/projects/neutoi/neutuch-and-neutoi-born-for-the-toilet/rewards'
+		}
+	},
+	'percent_funded': 0.024,
+	'is_liked': False,
+	'is_disliked': False
+}
